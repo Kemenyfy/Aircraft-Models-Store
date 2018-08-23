@@ -1,28 +1,74 @@
-.App {
-  text-align: center;
+body {
+  color: #4a4a4a;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+.App {
 }
 
 .App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+  text-align: center;
+  color: #D88E18;
+  background-color: black;
+  padding: .01em 0em .01em 0em;
 }
 
-.App-title {
-  font-size: 1.5em;
+.yugiohBackground {
+  width: 100%;
+  height: 8em;
 }
 
-.App-intro {
-  font-size: large;
+.mainCategories {
+  padding: 3rem 1.5rem;
 }
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.container {
+  margin: 0 auto;
+  position: relative;
+}
+
+.columns.is-mobile {
+  display: flex;
+}
+
+.column {
+  display: flex;
+  flex-direction: row;
+  /* display: block; */
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  padding: .75rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 0;
+  flex-grow: 1;
+  flex-shrink: 1;
+  background-color: #fff;
+  box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+  color: #4a4a4a;
+  margin: 0.6em;
+  padding: 0.75rem;
+}
+
+.cardContent {
+  padding: 1.5rem;
+}
+
+.content h3 {
+  font-size: 1.75em;
+  margin-bottom: .5714em;
+}
+
+p {
+  font-size: .7em;
+}
+
+.categoriesImages {
+  width: 80%;
 }
