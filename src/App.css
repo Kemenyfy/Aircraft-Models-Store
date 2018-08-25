@@ -1,14 +1,3 @@
-body {
-  color: #4a4a4a;
-  font-size: 1em;
-  font-weight: 400;
-  line-height: 1.5;
-  text-align: justify;
-}
-
-.App {
-}
-
 .App-header {
   text-align: center;
   color: #D88E18;
@@ -16,47 +5,29 @@ body {
   padding: .01em 0em .01em 0em;
 }
 
+.App {
+  background-color: #D88E18;
+}
 .FighterBackground {
   width: 100%;
   height: auto;
 }
 
-.container {
-  margin: 0 auto;
-  position: relative;
-}
-
-.columns.is-mobile {
-  display: flex;
-}
-
-.column {
-  display: flex;
-  flex-direction: column;
-  flex-basis: 0;
-  flex-grow: 1;
-  flex-shrink: 1;
-  padding: .75rem;
-  min-width: 30em;
-}
-
 .card {
-  background-color: #fff;
-  box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
-  color: #4a4a4a;
+  box-shadow: 0 1px 2px darkgrey, 0 0 0 2px darkgray;
+  background-color: black;
+  color: white;
   margin: 0.6em;
+  margin-bottom: 0em;
   padding: 0.75em;
-}
-
-.cardContent {
-  padding: 1.5rem;
 }
 
 p {
   font-size: .8em;
+  margin-bottom: 2em;
 }
 
-.categoriesImages {
+.cardImages {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -64,13 +35,31 @@ p {
 }
 
 .cardTitle {
-  font-size: 1.75em;
-  margin-bottom: .5714em;
-
+  font-size: 1.5em;
+  margin-bottom: .5em;
 }
 
+.categories {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  text-align: center;
+}
 @media (min-width: 45em) {
-  .column {
+  .categories {
     flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
   }
+
+  .card {
+    max-width: 44%;
+  }
+
+  .FighterBackground {
+    width: 60%;
+  }
+  
 }
