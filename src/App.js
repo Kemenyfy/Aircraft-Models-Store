@@ -18,7 +18,7 @@ class App extends Component {
         <Categories/>
         </section>
         <footer>
-          <h6>Powered by the might of somebody/somehow/maybe</h6>
+          <h6>Powered by React-Router-Dom -- Thanks to Suncoast Developers Guild for teaching us!</h6>
         </footer>
       </div >
     )
