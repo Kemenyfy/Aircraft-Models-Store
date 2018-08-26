@@ -39,9 +39,6 @@ p {
   margin-bottom: .5em;
 }
 
-.cardTitle:Link {
-  text-decoration: none;
-}
 .categoryImages {
   display: flex;
   flex-direction: column;

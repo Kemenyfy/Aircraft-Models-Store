@@ -3,11 +3,6 @@ import {Link} from 'react-router-dom'
 
 import Airplanes from '../Data/airplanes.json'
 
-import SE5 from '../Data/Images/SE5.jpeg'
-// import BF109 from '../Data/Images/BF109.jpeg'
-// import F4 from '../Data/Images/F4.jpeg'
-// import F22 from '../Data/Images/F22.jpeg'
-
 class Categories extends Component {
 
     componentDidMount() {
