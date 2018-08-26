@@ -6,7 +6,7 @@
 }
 
 .App {
-  background-color: #D88E18;
+  background-color: white;
 }
 
 .FighterBackground {
@@ -19,9 +19,9 @@
   box-shadow: 0 1px 2px darkgrey, 0 0 0 2px darkgray;
   background-color: black;
   color: white;
-  margin: 0.6em;
-  margin-bottom: 0em;
-  padding: 0.75em;
+  text-align: center;
+  margin: 2em;
+  padding: 2em;
 }
 
 p {
@@ -45,6 +45,7 @@ p {
 .categoryImages {
   display: flex;
   flex-direction: column;
+  justify-content: space-around;
 }
 
 footer {
@@ -60,6 +61,26 @@ footer {
   text-align: center;
 }
 
+h1 {
+  padding: 1em;
+  text-align: center;
+}
+
+h4 {
+  padding-top: 1em;
+  text-align: center;
+}
+
+.detailTextBox {
+  margin: 1em;
+
+}
+
+a {
+  text-decoration-line: none;
+  color: white;
+}
+
 @media (min-width: 45em) {
   .categoryImages {
     flex-direction: row;
@@ -68,7 +89,7 @@ footer {
   }
 
   .card {
-    max-width: 44%;
+    max-width: 30%;
   }
 
   .FighterBackground {
@@ -78,9 +99,18 @@ footer {
   .listImages {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
 
   .imagesList {
-    max-width: 46%;
+    max-width: 30%;
+  }
+
+  .cardTitle {
+    font-size: 1.8em;
+  }
+
+  p {
+    font-size: 1em;
   }
 }

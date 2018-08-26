@@ -1,7 +1,7 @@
 {
     "firstWar": {
       "title": "First World War",
-      "description": "World War I was the first major conflict involving the large-scale use of aircraft. Initially, they were used mostly for reconnaissance. Later for fighters, bombers, and trench strafers.",
+      "description": "World War I was the first major conflict involving the large-scale use of aircraft. Tethered observation balloons had already been employed in several wars, and would be used extensively for artillery spotting. Germany employed Zeppelins for reconnaissance over the North Sea and Baltic and also for strategic bombing raids over Britain and the Eastern Front.",
       "photos": [
         {
           "title": "Fokker D.VII",
@@ -157,12 +157,30 @@
         "description": "A fifth-generation jet fighter is a jet fighter classification used around the world that encompasses the most advanced jet fighter generation.",
         "photos": [
           {
-            "title": "Blooddasdas Rage, Ram Clan",
-            "imageUrl": "/images/F22.jpeg"
+            "title": "F-22 Raptor",
+            "description": "The Lockheed Martin F-22 Raptor is a fifth-generation, single-seat, twin-engine, all-weather stealth tactical fighter aircraft developed for the United States Air Force (USAF). The result of the USAF's Advanced Tactical Fighter program, the aircraft was designed primarily as an air superiority fighter, but also has ground attack, electronic warfare, and signal intelligence capabilities.[6] The prime contractor, Lockheed Martin, built most of the F-22's airframe and weapons systems and conducted final assembly, while Boeing provided the wings, aft fuselage, avionics integration, and training systems.",
+            "manufacturer": "Manufacturer: Lockheed Martin Aeronautics",
+            "length": "Length (m): 18.89",
+            "maiden": "Maiden Flight: Sep 07 1997",
+            "price": "Price: 35.99",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg/2560px-Lockheed_Martin_F-22A_Raptor_JSOH.jpg"     
           },
           {
-            "title": "Cormac thdsasde Druid, work in progress",
-            "imageUrl": "https://instagram.ftpf1-1.fna.fbcdn.net/vp/fbe274a10d9f125721b996b1c900a38a/5BFA5B76/t51.2885-15/e35/37190638_643058652730656_5948932439748378624_n.jpg"
+            "title": "Chengdu J-20",
+            "description": "The Chengdu J-20 (simplified Chinese: 歼-20; traditional Chinese: 殲-20) is a single-seat, twinjet, all-weather, stealth fifth-generation fighter aircraft developed by China's Chengdu Aerospace Corporation for the People's Liberation Army Air Force (PLAAF).[4] The J-20 is designed as an air superiority fighter with precision strike capability; it descends from the J-XX program of the 1990s.",
+            "manufacturer": "Manufacturer: Chengdu Aerospace Corporation",
+            "length": "Length (m): 20.42",
+            "maiden": "Maiden Flight: Jan 11 2011",
+            "price": "Price: 33.99",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/J-20_at_Airshow_China_2016.jpg"     
+          },{
+            "title": "Sukhoi Su-57",
+            "description": "The Sukhoi Su-57 (Russian: Сухой Су-57) is the designation for a stealth, single-seat, twin-engine multirole fifth-generation jet fighter being developed for air superiority and attack operations. The aircraft is the product of the PAK FA (Russian: ПАК ФА, short for: Перспективный авиационный комплекс фронтовой авиации, translit. Perspektivny Aviatsionny Kompleks Frontovoy Aviatsii, lit. 'Prospective Aviation Complex of Frontline Aviation'), a fifth-generation fighter programme of the Russian Air Force. Sukhoi's internal name for the aircraft is T-50. The Su-57 will be the first aircraft in Russian military service to use stealth technology.",
+            "manufacturer": "Manufacturer: Sukhoi",
+            "length": "Length (m): 21.95",
+            "maiden": "Maiden Flight: Jan 29 2010",
+            "price": "Price: 39.99",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sukhoi_T-50_Beltyukov.jpg"     
           }
         ]
       }

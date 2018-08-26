@@ -10,13 +10,15 @@ class ProductDetail extends Component {
 
         return (
             <div>
-                <header>{ProductData.title}</header>
-                <img src={ProductData.imageUrl} alt={ProductData.title}/>
-                <p>{ProductData.description}</p>
-                <p>{ProductData.manufacturer}</p>
-                <p>{ProductData.length}</p>
-                <p>{ProductData.maiden}</p>
-                <p>{ProductData.price}</p>
+                <h1>{ProductData.title}</h1>
+                <img className="cardImages" src={ProductData.imageUrl} alt={ProductData.title} />
+                <section className="detailTextBox">
+                    <p>{ProductData.description}</p>
+                    <p>{ProductData.manufacturer}</p>
+                    <p>{ProductData.length}</p>
+                    <p>{ProductData.maiden}</p>
+                    <p>{ProductData.price}</p>
+                </section>
             </div>
         );
     }

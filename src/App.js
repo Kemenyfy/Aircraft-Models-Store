@@ -28,7 +28,8 @@ class App extends Component {
           </Switch>
           </section>
           <footer>
-            <h6>Powered by React-Router-Dom -- Thanks to Suncoast Developers Guild for teaching us!</h6>
+            <h6>Powered by React-Router-Dom</h6>
+            <h6>Thanks to Suncoast Developers Guild for teaching us!</h6>
           </footer>
         </div >
       </Router>
