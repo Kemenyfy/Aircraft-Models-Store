@@ -6,6 +6,7 @@ import Categories from './Components/Categories.js'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 import FighterBackground from './Data/Images/FighterBackground.jpg'
+import ProductList from './Components/ProductList';
 
 class App extends Component {
   render() {
@@ -20,6 +21,7 @@ class App extends Component {
           <section className="categories">
           <Switch>
             <Route path="/" exact component={Categories}/>
+            <Route path="/:category" exact component={ProductList}/>
           </Switch>
           </section>
           <footer>
