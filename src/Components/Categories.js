@@ -10,7 +10,7 @@ import SE5 from '../Data/Images/SE5.jpeg'
 class Categories extends Component {
 
     componentDidMount() {
-        console.log({ data: Airplanes, keys: Object.keys(Airplanes) })
+        
     }
 
 
