@@ -19,7 +19,26 @@
           "length": "Length (m): 5.72",
           "maiden": "Maiden Flight: Dec 22 1916",
           "price": "Price: 24.99",
-          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"        }
+          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
+        },
+        {
+          "title": "Sopwith Camel",
+          "description": "British fighter that scored more aerial victories than any other Allied plane. Was the plane Snoopy flew in the Peanuts comic strip. ",
+          "manufacturer": "Manufacturer: Sopwith Aviation Company",
+          "length": "Length (m): 5.72",
+          "maiden": "Maiden Flight: Dec 22 1916",
+          "price": "Price: 24.99",
+          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
+        },
+        {
+          "title": "Sopwith Camel",
+          "description": "British fighter that scored more aerial victories than any other Allied plane. Was the plane Snoopy flew in the Peanuts comic strip. ",
+          "manufacturer": "Manufacturer: Sopwith Aviation Company",
+          "length": "Length (m): 5.72",
+          "maiden": "Maiden Flight: Dec 22 1916",
+          "price": "Price: 24.99",
+          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
+        }
       ]
     },
     "secondWar": {

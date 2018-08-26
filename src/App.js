@@ -1,12 +1,14 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+
 import './App.css';
 
 import Categories from './Components/Categories.js'
+import ProductList from './Components/ProductList';
+import ProductDetail from './Components/ProductDetail';
 
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 
 import FighterBackground from './Data/Images/FighterBackground.jpg'
-import ProductList from './Components/ProductList';
 
 class App extends Component {
   render() {
@@ -15,13 +17,14 @@ class App extends Component {
         <div className="App">
           <header className="App-header">
             <h1>Fighter Aircraft Modelling</h1>
-            <img className="FighterBackground" src={FighterBackground} alt="Yugioh Background" />
+            <img className="FighterBackground" src={FighterBackground} alt="Fighter Background" />
             <h6>Powered by the might of somebody/somehow/maybe</h6>
           </header>
           <section className="categories">
           <Switch>
             <Route path="/" exact component={Categories}/>
             <Route path="/:category" exact component={ProductList}/>
+            <Route path="/:category/:index" exact component={ProductDetail}/>
           </Switch>
           </section>
           <footer>
