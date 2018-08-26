@@ -66,6 +66,10 @@ h1 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
 h4 {
   padding-top: 1em;
   text-align: center;
@@ -79,6 +83,25 @@ h4 {
 a {
   text-decoration-line: none;
   color: white;
+}
+
+.featuredProducts {
+  text-align: center;
+}
+
+.featuredImages {
+  margin: .2em 0em 1em 0em;
+  width: 40%;
+}
+
+.featuredTitle {
+  margin-top: 0em;
+  margin-bottom: -.2em;
+}
+
+.featuredPrice {
+  margin-top: -1.2em;
+  margin-bottom: 2em;
 }
 
 @media (min-width: 45em) {
