@@ -72,8 +72,8 @@ h4 {
 }
 
 .detailTextBox {
-  margin: 1em;
-
+  text-align: justify;
+  margin: 2em 2em 1em 2em;
 }
 
 a {
@@ -112,5 +112,14 @@ a {
 
   p {
     font-size: 1em;
+  }
+
+  .cardImages {
+    margin-bottom: 2em;
+    width: 60%;
+  }
+
+  .detailTextBox {
+    margin: 4em;
   }
 }
