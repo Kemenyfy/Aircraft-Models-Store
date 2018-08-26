@@ -39,7 +39,7 @@ p {
   margin-bottom: .5em;
 }
 
-.categories {
+.categoryImages {
   display: flex;
   flex-direction: column;
 }
@@ -47,8 +47,9 @@ p {
 footer {
   text-align: center;
 }
+
 @media (min-width: 45em) {
-  .categories {
+  .categoryImages {
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -61,5 +62,4 @@ footer {
   .FighterBackground {
     width: 60%;
   }
-  
 }
