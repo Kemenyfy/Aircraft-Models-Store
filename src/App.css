@@ -8,6 +8,7 @@
 .App {
   background-color: #D88E18;
 }
+
 .FighterBackground {
   width: 100%;
   height: auto;
@@ -51,6 +52,14 @@ footer {
   padding-bottom: .5em;
 }
 
+.productList{
+  padding: 1em;
+}
+
+.imagesList {
+  text-align: center;
+}
+
 @media (min-width: 45em) {
   .categoryImages {
     flex-direction: row;
@@ -65,16 +74,13 @@ footer {
   .FighterBackground {
     width: 60%;
   }
-}
 
-.productList{
-  padding: 1em;
-}
+  .listImages {
+    display: flex;
+    flex-wrap: wrap;
+  }
 
-.listImages {
-
-}
-
-.imagesList {
-  text-align: center;
+  .imagesList {
+    max-width: 46%;
+  }
 }

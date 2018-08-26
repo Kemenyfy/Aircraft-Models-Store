@@ -14,17 +14,19 @@ class ProductList extends Component {
                 <div className="productList">
                     <header className="cardTitle">{_thisProps.title}</header>
                     <p className="categoriesParagraph">{_thisProps.description}</p>
-                    <section className="listImages">
-                        {
-                            _thisProps.photos.map((photo, i) => {
-                                return <section className="imagesList">
-                                    <p>{photo.title}</p>
-                                    <Link to={`/${_this}/${i}`} key={i}>
-                                        <img className="cardImages" src={photo.imageUrl} alt={photo.title} key={i} />
-                                    </Link>
-                                </section>
-                            })
-                        }
+                    <section className="productImagesList">
+                        <section className="listImages">
+                            {
+                                _thisProps.photos.map((photo, i) => {
+                                    return <section className="imagesList" key={i}>
+                                        <p>{photo.title}</p>
+                                        <Link to={`/${_this}/${i}`} key={i}>
+                                            <img className="cardImages" src={photo.imageUrl} alt={photo.title} key={i} />
+                                        </Link>
+                                    </section>
+                                })
+                            }
+                        </section>
                     </section>
                 </div>
             );

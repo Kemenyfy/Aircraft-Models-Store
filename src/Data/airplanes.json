@@ -22,36 +22,109 @@
           "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
         },
         {
-          "title": "Sopwith Camel",
-          "description": "British fighter that scored more aerial victories than any other Allied plane. Was the plane Snoopy flew in the Peanuts comic strip. ",
-          "manufacturer": "Manufacturer: Sopwith Aviation Company",
-          "length": "Length (m): 5.72",
-          "maiden": "Maiden Flight: Dec 22 1916",
-          "price": "Price: 24.99",
-          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
+          "title": "Royal Aircraft Factory S.E.5",
+          "description": "British and American air superiority fighter that saw heavy combat.",
+          "manufacturer": "Manufacturer: Henry Folland",
+          "length": "Length (m): 6.38",
+          "maiden": "Maiden Flight: Nov 22 1916",
+          "price": "Price: 28.99",
+          "imageUrl": "https://imgix.ranker.com/node_img/98/1943019/original/royal-aircraft-factory-s-e-5-airplanes-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"     
         },
         {
-          "title": "Sopwith Camel",
-          "description": "British fighter that scored more aerial victories than any other Allied plane. Was the plane Snoopy flew in the Peanuts comic strip. ",
-          "manufacturer": "Manufacturer: Sopwith Aviation Company",
-          "length": "Length (m): 5.72",
-          "maiden": "Maiden Flight: Dec 22 1916",
-          "price": "Price: 24.99",
-          "imageUrl": "https://aerodynamicmedia.com/wp-content/uploads/2017/01/1-36-616x363.jpg"     
+          "title": "SPAD S.XIII",
+          "description": "Hugely successful biplane fighter flown by famous American ace Capt. Eddie Rickenbacker.",
+          "manufacturer": "Manufacturer: Société Pour L'Aviation et ses Dérivés",
+          "length": "Length (m): 6.25",
+          "maiden": "Maiden Flight: Apr 04 1917",
+          "price": "Price: 31.99",
+          "imageUrl": "https://imgix.ranker.com/node_img/104/2071528/original/spad-s-xiii-airplanes-photo-1?w=650&q=50&fm=jpg&fit=crop&crop=faces"     
+        },
+        {
+          "title": "Fokker Dr.I",
+          "description": "German triplane fighter made famous by fighter ace Manfred von Richthofen.",
+          "manufacturer": "Manufacturer: Fokker",
+          "length": "Length (m): 5.77",
+          "maiden": "Maiden Flight: Jul 01 1917",
+          "price": "Price: 33.99",
+          "imageUrl": "https://imgix.ranker.com/node_img/51/1004032/original/fokker-dr-i-airplanes-photo-1?w=650&q=60&fm=jpg&fit=crop&crop=faces"     
         }
       ]
     },
     "secondWar": {
       "title": "Second World War",
-      "description": "The List of aircraft of World War II includes all the aircraft used by those countries which were at war since the start to the end of the conflict.",
+      "description": "During the Second World War, the airplane proved decisive as one of the most dominant weapons on the battlefield. Unlike the tank or the mighty battleship, the airplane was the most versatile of the three providing attack capabilities wherever it was needed – be it in the sky, land or even at sea. They not only fought for control of the skies, but also provided vital tactical and strategic support for the warring nations. They leveled enemy industrial plants, provided ground combat support, reconnaissance and even supplied besieged armies behind enemy lines.",
       "photos": [
         {
-          "title": "Messerschmidt Bf-109",
-          "imageUrl": "/images/BF109.jpeg"
+          "title": "North American P-51 Mustang",
+          "description": "The plane that went all the way. As Allied armies fought their way deep into occupied Europe, it was the P-51 Mustang which wrested control of the skies from the Luftwaffe. More than just a ferocious dogfighter, the P-51 Mustang was one of the fastest piston-engined fighters and could fly higher and go further than any other combat aircraft of the war. The P-51 Mustang claimed the most Allied kills with no fewer than 281 pilots earning the “Aces” (5 kills) distinction in a Mustang. It was the greatest fighter of the war.",
+          "manufacturer": "Manufacturer: North American Aviation",
+          "length": "Length (m): 9.83",
+          "maiden": "Maiden Flight: Oct 26 1940",
+          "price": "Price: 33.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/375th_Fighter_Squadron_North_American_P-51D-5-NA_Mustang_44-13926.jpg/1920px-375th_Fighter_Squadron_North_American_P-51D-5-NA_Mustang_44-13926.jpg"     
         },
         {
-          "title": "Other plane",
-          "imageUrl": "https://instagram.ftpf1-1.fna.fbcdn.net/vp/fbe274a10d9f125721b996b1c900a38a/5BFA5B76/t51.2885-15/e35/37190638_643058652730656_5948932439748378624_n.jpg"
+          "title": "Focke-Wulf Fw-190",
+          "description": "One of the best fighters of all time, no Allied pilot who fought in the skies of Europe will forget the feats of the Fw-190. Introduced in September 1941, this fighter shocked RAF pilots and inflicted cruel punishment to Allied bombers flying over Europe. Highly respected by Allied pilots, the Fw-190 was a superb fighter, fighter-bomber and anti-tank aircraft. Oberleutnant Otto Kittel scored most of his 267 kills in a Fw-190, forever immortalizing him as the fourth top scoring ace of the Luftwaffe.",
+          "manufacturer": "Manufacturer: Focke-Wulf Flugzeugbau AG",
+          "length": "Length (m): 8.93",
+          "maiden": "Maiden Flight: Jun 01 1939",
+          "price": "Price: 31.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Fw_190A-3_JG_2_in_Britain_1942.jpg"     
+        },
+        {
+          "title": "Supermarine Spitfire",
+          "description": "The Supermarine Spitifre is possibly the most famous combat aircraft in history. Champions of low level duels, Spitfires earned their immortality as the fighter that turned the tide in the Battle of Britain. Against its greatest foe, the Messerschmitt Bf-109, Spitfires forced the German fighter to stay low to protect the bombers – negating the Bf-109s advantage while multiplying its own. After the homeland threat was over, Spitfires served as fighter-bombers and carrier-based fighters, where they served with distinction in all combat theaters. The Spitfire is in the league of one of the best fighters of all time.",
+          "manufacturer": "Manufacturer: Supermarine",
+          "length": "Length (m): 9.12",
+          "maiden": "Maiden Flight: Mar 05 1936",
+          "price": "Price: 35.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ray_Flying_Legends_2005-1.jpg"     
+        },
+        {
+          "title": "Messerschmitt Bf-109",
+          "description": "Aviation history describes the Bf-109 as one of the greatest fighters in history. When first introduced, this fearsome aircraft was among the best of its day, putting it in the same league as the British Spitfire. Fast and graceful, Bf-109s ruled the skies at high altitudes, but as bomber escorts over Great Britain, these high flyers had to pitch their battles at low altitudes - a task it was ill-suited to perform. Nevertheless, the Bf-109 with its heavy punch of 20mm cannons would go on to become the most important fighter in the Luftwaffe, serving on all fronts of the war.",
+          "manufacturer": "Manufacturer: Bayerische Flugzeugwerke (BFW) Messerschmitt AG",
+          "length": "Length (m): 9.14",
+          "maiden": "Maiden Flight: May 29 1935",
+          "price": "Price: 37.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bundesarchiv_Bild_101I-662-6659-37%2C_Flugzeug_Messerschmitt_Me_109.jpg"     
+        },
+        {
+          "title": "Mitsubishi A6M Zero",
+          "description": "The Mitsubishi A6M Zero dealt an awakening shock to the Americans when it was unleashed in the early stages of war. Having mistakenly written off as inferior to Allied fighters, the Zero proved more than a match and became the dominant fighter in the first two years of the Pacific war. Until the F6F Hellcat, no American fighter could match it in firepower, range or maneuverability. Also the best carrier-borne aircraft of its time, the Zero gained the reputation as “invincible” until newer American aircraft were available. The Mitsubishi Zero would go down as one the most agile aircraft ever built.",
+          "manufacturer": "Manufacturer: Mitsubishi Heavy Industries",
+          "length": "Length (m): 9.14",
+          "maiden": "Maiden Flight: Apr 01 1939",
+          "price": "Price: 30.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/A6M3_Zero_N712Z_1.jpg"     
+        },
+        {
+          "title": "Ilyushin-2 Shturmovik",
+          "description": "A legend in its own right, the Ilyushin-2 Shturmovik is the number one anti-tank aircraft in the world, having destroyed more enemy tanks than any other aircraft during the war. It also holds the record as the most produced aircraft, with over 36,000 units built during the war. It was heavily armored and is the fastest ground attack aircraft in its class. The Germans called it the “Black Death”, while Stalin was quoted “The Red Army needs the Il-2 as it needs air and bread.” After the war, the improved Ilyushin-10 Shturmovik went to serve in Communist countries until the late 1950s.",
+          "manufacturer": "Manufacturer: Ilyushin Design Bureau",
+          "length": "Length (m):1 1.58",
+          "maiden": "Maiden Flight: Oct 02 1939",
+          "price": "Price: 28.99",
+          "imageUrl": "https://cache.desktopnexus.com/cropped-wallpapers/1210/1210794-1440x900-[DesktopNexus.com].jpg?st=50Ra1mThmS3NrW8mNGclMg&e=1535310007"     
+        },
+        {
+          "title": "Vought F4U Corsair",
+          "description": "If it was the F6F Hellcat which wrested control of the Pacific from the Japanese, then it was the F4U Corsair which carried on to gain air supremacy over the Pacific islands. Totally outclassing the much vaunted Japanese Zero, the Corsair was not only a potent carrier fighter, but in the hands of land-based Marines, it was also a potent ground attack aircraft, paving the way for the final battles at Iwo Jima and Okinawa. With high speed and maneuverability, the F4U Corsair continued to serve in the Korean war, with the last units coming off the line in 1953. It emerges as one of the finest fighters ever built.",
+          "manufacturer": "Manufacturer: Chance Vought",
+          "length": "Length (m): 10.36",
+          "maiden": "Maiden Flight: May 29 1940",
+          "price": "Price: 32.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Vought_F4U_Corsair_%28USMC%29.jpg"     
+        },
+        {
+          "title": "Messerschmitt 262",
+          "description": "The Messerschmitt-262 makes it into this list not because of the impact it had on the war, but because of the contributions it had made after the war. Using its secrets in rocketry and airframe design, scientists developed more advanced aircraft prototypes up to the speed of Mach-1. There is no doubt that the Me-262 was revolutionary and should German industries be capable of producing the much needed numbers, the Luftwaffe would once again have achieve air superiority. When first introduced in September 1944, there was no fighter in the Allied arsenal which could match it in an air duel.",
+          "manufacturer": "Manufacturer: Messerschmitt",
+          "length": "Length (m): 10.67",
+          "maiden": "Maiden Flight: Apr 18 1941",
+          "price": "Price: 38.99",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Messerschmitt_Me_262A_at_the_National_Museum_of_the_USAF.jpg"     
         }
       ]
     },
@@ -60,12 +133,22 @@
         "description": "The Vietnam War was a conflict that occurred in Vietnam, Laos, and Cambodia from 1 November 1955 to the fall of Saigon on 30 April 1975.",
         "photos": [
           {
-            "title": "Bloadsasdod Rage, Ram Clan",
-            "imageUrl": "/images/F4.jpeg"
+            "title": "McDonnell Douglas F-4 Phantom II",
+            "description": "The McDonnell Douglas F-4 Phantom II is a tandem two-seat, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber originally developed for the United States Navy by McDonnell Aircraft.[2] It first entered service in 1960 with the U.S. Navy. Proving highly adaptable, it was also adopted by the U.S. Marine Corps and the U.S. Air Force, and by the mid-1960s had become a major part of their air arms.",
+            "manufacturer": "Manufacturer: McDonnell Aircraft Corporation",
+            "length": "Length (m): 19.20",
+            "maiden": "Maiden Flight: May 27 1958",
+            "price": "Price: 34.99",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/QF-4_Holloman_AFB.jpg"     
           },
           {
-            "title": "Cormacdsaad the Druid, work in progress",
-            "imageUrl": "https://instagram.ftpf1-1.fna.fbcdn.net/vp/fbe274a10d9f125721b996b1c900a38a/5BFA5B76/t51.2885-15/e35/37190638_643058652730656_5948932439748378624_n.jpg"
+            "title": "Mikoyan-Gurevich MiG-21",
+            "description": "The Mikoyan-Gurevich MiG-21 (NATO reporting name: Fishbed) is a supersonic jet fighter and interceptor aircraft, designed by the Mikoyan-Gurevich Design Bureau in the Soviet Union. It was popularly nicknamed 'balalaika', from the aircraft's platform-view resemblance to the Russian stringed musical instrument by Polish pilots due to the shape of its fuselage.",
+            "manufacturer": "Manufacturer: Mikoyan-Gurevich",
+            "length": "Length (m): 15.85",
+            "maiden": "Maiden Flight: Feb 14 1956",
+            "price": "Price: 35.99",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/HRZ_MiG_21.jpg"     
           }
         ]
       },
