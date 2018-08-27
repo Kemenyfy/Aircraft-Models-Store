@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import Breadcrumbs  from 'react-router-dynamic-breadcrumbs'; 
 
 import './App.css';
 
@@ -9,6 +10,12 @@ import ProductDetail from './Components/ProductDetail';
 
 
 import FighterBackground from './Data/Images/FighterBackground.jpg'
+
+const routes = {
+  '/': 'Home',
+  '/:category': 'Photo List', 
+  '/:category/:id': 'Photo Details'
+}
 
 class App extends Component {
   render() {
@@ -20,6 +27,7 @@ class App extends Component {
             <img className="FighterBackground" src={FighterBackground} alt="Fighter Background" />
             <h6>Powered by the might of somebody/somehow/maybe</h6>
           </header>
+          <Breadcrumbs mappedRoutes={routes} />
           <section className="categories">
           <Switch>
             <Route path="/" exact component={Categories}/>
